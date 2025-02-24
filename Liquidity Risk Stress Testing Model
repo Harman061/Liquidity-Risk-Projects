@@ -1,0 +1,1 @@
+This Python script simulates cash flow volatility over 30 days using Monte Carlo techniques, assessing liquidity stress by calculating the probability of a liquidity crisis.
